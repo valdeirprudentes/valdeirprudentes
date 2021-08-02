@@ -2,6 +2,7 @@ Hello everyone! Welcome to my profile! 👋😎
 
 I am Valdeir Prudente 
 
+🚀 I’m currently working with software development.
 🌱 Learning is not limited because it is something that should be constantly present throughout life.
 
 <div>
