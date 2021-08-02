@@ -1,8 +1,8 @@
-Olá, seja bem-vindo! 
-Eu sou o Valdeir Prudente 😎👋
+Hello everyone! Welcome to my profile! 👋😎
 
-- 🔭 I’m currently working on ... Hoje trabalho com Desenvolvimento back-end
-- 🌱 I’m currently learning ... Estudo C# e Java 
+I am Valdeir Prudente 
+
+- 🌱 I’m currently learning Estudo C# e Java 
 
 <div>
   <a href="https://github.com/ValdeirPrudentes">
