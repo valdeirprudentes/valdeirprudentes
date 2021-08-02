@@ -2,7 +2,7 @@ Hello everyone! Welcome to my profile! 👋😎
 
 I am Valdeir Prudente 
 
-- 🌱 I’m currently learning Estudo C# e Java 
+🌱 Learning is not limited because it is something that should be constantly present throughout life.
 
 <div>
   <a href="https://github.com/ValdeirPrudentes">
